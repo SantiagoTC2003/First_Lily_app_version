@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\bin\Debug\netstandard2.0\Prueba_2_Movil.deps.json
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\bin\Debug\netstandard2.0\Prueba_2_Movil.dll
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\bin\Debug\netstandard2.0\ref\Prueba_2_Movil.dll
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\bin\Debug\netstandard2.0\Prueba_2_Movil.pdb
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Resultados.xaml.g.cs
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.AssemblyInfo.cs
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.dll
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\refint\Prueba_2_Movil.dll
+C:\Users\admin\source\repos\Prueba_2_Movil\Prueba_2_Movil\Prueba_2_Movil\obj\Debug\netstandard2.0\Prueba_2_Movil.pdb

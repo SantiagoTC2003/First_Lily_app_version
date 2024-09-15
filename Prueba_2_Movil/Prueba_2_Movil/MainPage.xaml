@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_2_Movil.MainPage"
+             NavigationPage.HasNavigationBar="False">
+     <StackLayout BackgroundColor="Aquamarine">
+       <Frame Padding="0" CornerRadius="0">
+            <Image Source="Lily.png" HeightRequest="100"></Image>
+       </Frame>
+       <Label x:Name="LabelA"  Text="Please start looking for devices" FontSize="Title" Padding="60,0" FontFamily="LeagueSpartan" TextColor="Black"/>
+       <StackLayout>
+            <Grid>
+                <ListView  x:Name="ListaDispositivos" ItemTapped="ListaDispositivosEncontradosListView_ItemTapped"> </ListView>    
+            </Grid>
+            <ActivityIndicator x:Name="_Indicador_Ocupado" Scale="0.3"/>
+            <Button x:Name="Boton_Escaneo" Clicked="Button_Clicked" Text="Search" FontFamily="LeagueSpartan" TextColor="Black"> </Button>
+       </StackLayout>
+            <Label Text="Selected device" FontFamily="LeagueSpartan" TextColor="Black"> </Label>
+            <Frame>
+                <Label x:Name="lbl_Dispositvo_seleccionado" FontFamily="LeagueSpartan" TextColor="Black"></Label>                </Frame>
+            <Button Text="Connect and go to menu" FontFamily="LeagueSpartan" TextColor="black" Clicked="NavigateTo"> </Button>
+     </StackLayout>
+</ContentPage>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_2_Movil.Menu">
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Aquamarine">
+            <Label Text="Seleccione una opcion" FontSize="Title" Padding="60,0" FontFamily="LeagueSpartan" TextColor="Black" HorizontalOptions="Center" Margin="0,20,0,0"/>
+            <Button Text="Datos recopilados" BackgroundColor="White" TextTransform="None" FontFamily="LeagueSpartan" FontSize="Large" TextColor="Black" CornerRadius="10" VerticalOptions="StartAndExpand" Margin="20,100,20,0" HeightRequest="100"/>
+            <Button Text="Manipular Leds" BackgroundColor="White" TextTransform="None" FontFamily="LeagueSpartan" FontSize="Large" TextColor="Black" CornerRadius="10" VerticalOptions="CenterAndExpand" Margin="20,0,20,0" HeightRequest="100"/>
+            <Button  Text="Apagar" BackgroundColor="White" TextTransform="None" FontFamily="LeagueSpartan" FontSize="Large" TextColor="Black" CornerRadius="10" VerticalOptions="EndAndExpand" Margin="20,0,20,100" HeightRequest="100"/>
+            
+        
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

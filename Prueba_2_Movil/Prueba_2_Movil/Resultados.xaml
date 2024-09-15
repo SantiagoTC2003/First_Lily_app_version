@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_2_Movil.Resultados"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Aquamarine">
+           
+                   
+                        
+                            <Frame>
+                            <StackLayout Orientation="Horizontal">
+                        
+                                <Image Source="Temperatura.png" HeightRequest="70" WidthRequest="70"></Image>
+                    <Label x:Name="lblTemperatura" Text="" FontFamily="LeagueSpartan" TextColor="Black" FontSize="28" Margin="10,10" ></Label>
+                            </StackLayout>
+                        </Frame>
+                    <Frame>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="Humedad.png" HeightRequest="70" WidthRequest="70"></Image>
+                    <Label x:Name="lblHumedad" Text="" FontFamily="LeagueSpartan" TextColor="Black" FontSize="30" Margin="10,10" ></Label>
+                            </StackLayout>
+                             </Frame>
+                    <Frame>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="Audio.png" HeightRequest="70" WidthRequest="70"></Image>
+                    <Label x:Name="lblAudio" Text="" FontFamily="LeagueSpartan" TextColor="Black" FontSize="30" Margin="10,10" ></Label>
+                            </StackLayout>
+                             </Frame>
+                    <Frame>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="Bluetooth.png" HeightRequest="70" WidthRequest="70"></Image>
+                    <Label x:Name="lblBluetooth" Text="" FontFamily="LeagueSpartan" TextColor="Black" FontSize="27" Margin="10,10"></Label>
+                            </StackLayout>
+                            </Frame>
+                    <Frame>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="Wifi.png" HeightRequest="70" WidthRequest="70"></Image>
+                    <Label x:Name="lblWifi" Text="" FontFamily="LeagueSpartan" TextColor="Black" FontSize="30" Margin="10,10" ></Label>
+                            </StackLayout>
+                           </Frame>
+                    <Frame>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="Led.png" HeightRequest="70" WidthRequest="70"></Image>
+                    <Label x:Name="lblLed" Text="" FontFamily="LeagueSpartan" TextColor="Black" FontSize="30" Margin="10,10"></Label>
+                            </StackLayout>
+                           </Frame> 
+                        
+
+                    
+ </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

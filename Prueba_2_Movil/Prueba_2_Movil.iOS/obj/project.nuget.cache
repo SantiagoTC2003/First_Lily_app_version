@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fsx6mBYCSo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Prueba_2_Movil\\Prueba_2_Movil\\Prueba_2_Movil.iOS\\Prueba_2_Movil.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\plugin.ble\\3.1.0\\plugin.ble.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
